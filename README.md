@@ -43,8 +43,8 @@ Abaixo estão os produtos finais gerados pelo fluxo de trabalho de IA, demonstra
 
 | Tipo de Mídia | Link |
 | :--- | :--- |
-| **Podcast (Áudio)** | [LINK PARA O PODCAST AQUI]() |
-| **Vídeo Curto** | [LINK PARA O VÍDEO AQUI]() |
+| **Podcast (Áudio)** | [LINK PARA O PODCAST AQUI](https://notebooklm.google.com/notebook/94215e86-522c-4719-9b1e-e8f11e01536f?artifactId=6a3da006-e044-4d15-a6cd-ef7ee51b1a15) |
+| **Vídeo Curto** | [LINK PARA O VÍDEO AQUI](https://notebooklm.google.com/notebook/94215e86-522c-4719-9b1e-e8f11e01536f?artifactId=b2b1febc-5ae1-4958-8524-7c62edc4f515) |
 
 ## 💭 Reflexão
 O projeto validou a capacidade do NotebookLM de ir além da pesquisa, atuando como um poderoso **sintetizador de informação**. Ele superou o desafio de conciliar três fontes distintas em um conteúdo coeso, acelerando a fase de roteirização, que é, tipicamente, a mais demorada na produção de conteúdo.
