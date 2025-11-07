@@ -1,7 +1,9 @@
 # Vídeo: Explorando Novos Horizontes com o Gemini e NotebookLM 🚀
 
 ## 📒 Descrição
-Este podcast de 10 minutos explora um tema complexo (por exemplo, Inovação Sustentável) usando o **Gemini** e o **NotebookLM** como ferramentas principais de pesquisa e elaboração do roteiro.
+Este vídeo de 7 minutos explora um tema complexo (por exemplo, Inovação Sustentável) usando o **Gemini** e o **NotebookLM** como ferramentas principais de pesquisa e elaboração do roteiro.
+
+https://notebooklm.google.com/notebook/94215e86-522c-4719-9b1e-e8f11e01536f?artifactId=b2b1febc-5ae1-4958-8524-7c62edc4f515
 
 ---
 
