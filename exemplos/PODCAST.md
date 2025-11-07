@@ -1,7 +1,12 @@
 # Podcast: Explorando Novos Horizontes com o Gemini e NotebookLM 🚀
 
 ## 📒 Descrição
-Este podcast de 10 minutos explora um tema complexo (por exemplo, Inovação Sustentável) usando o **Gemini** e o **NotebookLM** como ferramentas principais de pesquisa e elaboração do roteiro.
+Este podcast de 20 minutos explora o tema:
+Seis Sinais de Baixo Alcance no Instagram
+3 fontes
+Os vídeos do YouTube apresentados oferecem um extenso conjunto de estratégias para otimizar o alcance e o engajamento no Instagram, focando na produção de conteúdo e na interação com o público. O primeiro vídeo detalha seis dicas de planejamento essenciais a serem executadas antes e após a publicação, incluindo a ativação do "efeito hype" para aumentar a afinidade e a importância de responder comentários na primeira hora. Os outros vídeos discutem seis sinais de baixo alcance que os criadores de conteúdo devem evitar, como a falta de emoção ou utilidade no conteúdo, e criticam o uso do botão "Turbinar" do Instagram, recomendando o uso estratégico do Gerenciador de Anúncios para obter seguidores mais engajados e sustentáveis. Juntos, os materiais formam um guia detalhado sobre como alinhar a estratégia de marketing com a lógica do algoritmo e o comportamento do usuário.
+
+https://notebooklm.google.com/notebook/94215e86-522c-4719-9b1e-e8f11e01536f?artifactId=b2b1febc-5ae1-4958-8524-7c62edc4f515
 
 ---
 
